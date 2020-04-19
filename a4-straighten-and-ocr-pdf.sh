@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# to run this script, install pdfjam, unpaper, imagemagick and tesseract
+
 #TOOD: set a parameter for the language (used in ocr)
 
 set -x
